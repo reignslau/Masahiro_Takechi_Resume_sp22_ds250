@@ -2,7 +2,7 @@
 layout: cv
 title: Masahiro Takechi's Resume
 ---
-# Brigham Young
+# Masahiro Takechi
 A cs Japanese student at BYUI
 
 <div id="webaddress">
