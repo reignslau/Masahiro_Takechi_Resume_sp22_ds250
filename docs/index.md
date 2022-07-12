@@ -3,7 +3,8 @@ layout: cv
 title: Masahiro Takechi's Resume
 ---
 # Masahiro Takechi
-A CS Japanese student at BYUI
+A CS Japanese student at BYUI. 
+My dream as a programmer is to get people more familier with programming and/or web development and turn the two fields into something they can do during their free time.
 
 <div id="webaddress">
 <a href="tak21011@byui.edu">tak21011@byui.edu</a>
@@ -25,11 +26,11 @@ Data Science Programming, Discrete Math
 ## Jobs
 
 `Sep. 2021 - Apr. 2022`
-###### CIT/CS Drop-in Volunteer Tutor, Rexburg, ID
+#### CIT/CS Drop-in Volunteer Tutor, Rexburg, ID
 - Helping Computer Info. Tech. and Computer Science students who stopped by the room and need a hand on their assignments related to Python, JavaScript, MySQL, and web development
 
 `Jan. 2021 - Apr. 2022`
-###### TA (Introduction to Database, Rexburg, ID
+#### TA (Introduction to Database, Rexburg, ID
 - Attending class and Database Lab to help students with debugging in MySQL
 
 ## Skills
