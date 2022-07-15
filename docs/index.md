@@ -3,8 +3,8 @@ layout: cv
 title: Masahiro Takechi's Resume
 ---
 # Masahiro Takechi
-A CS Japanese student at BYUI. 
-My dream as a programmer is to get people more familier with programming and/or web development and turn the two fields into something they can do during their free time.
+A CS Japanese student at Brigham Young University - Idaho. 
+My dream as a programmer is to get people more familiar with programming and/or web development and turn the two fields into something they can do during their free time.
 
 <div id="webaddress">
 <a href="tak21011@byui.edu">tak21011@byui.edu</a>
